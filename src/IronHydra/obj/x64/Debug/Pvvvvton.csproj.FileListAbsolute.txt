@@ -1,0 +1,7 @@
+C:\vvvv\libs\mcropack\packs\Pvvvvton\Pvvvvton\nodes\Plugins\x64\Pvvvvton.dll
+C:\vvvv\libs\mcropack\packs\Pvvvvton\Pvvvvton\nodes\Plugins\x64\Pvvvvton.pdb
+C:\vvvv\libs\mcropack\packs\Pvvvvton\src\Pvvvvton\obj\x64\Debug\Pvvvvton.csprojResolveAssemblyReference.cache
+C:\vvvv\libs\mcropack\packs\Pvvvvton\src\Pvvvvton\obj\x64\Debug\Pvvvvton.dll
+C:\vvvv\libs\mcropack\packs\Pvvvvton\src\Pvvvvton\obj\x64\Debug\Pvvvvton.pdb
+C:\vvvv\libs\mcropack\packs\Pvvvvton\nodes\Plugins\x64\Pvvvvton.dll
+C:\vvvv\libs\mcropack\packs\Pvvvvton\nodes\Plugins\x64\Pvvvvton.pdb

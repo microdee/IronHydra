@@ -1,0 +1,16 @@
+{
+    "Definitions": [
+        {
+            "Define": "Options",
+            "PrimitiveObjectFormular": "double Amplitude, double FrequencyBalance, double RandomSeed, double MorphBalance, double Z, double Octaves, double Rows, double Columns, bool WaitForController"
+        },
+        {
+            "Define": "PosList",
+            "PrimitiveObjectFormular": "double X, double Y"
+        },
+        {
+            "Define": "Result",
+            "PrimitiveObjectFormular": "double Values, bool RowDone"
+        }
+    ]
+}

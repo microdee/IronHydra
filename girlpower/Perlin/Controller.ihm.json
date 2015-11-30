@@ -1,0 +1,14 @@
+{
+    "Definitions": [
+        {
+            "Define": "Result",
+            "PrimitiveObjectFormular": "double Values, bool RowDone"
+        },
+        {
+            "Define": "Populate",
+        },
+        {
+            "Define": "Neighbourhood"
+        }
+    ]
+}
